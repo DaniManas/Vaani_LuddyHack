@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🗣️ Vaani — Real-Time Audio Intelligence (Luddy Hackathon 2025)
 
 **Vaani** is an advanced real-time audio processing tool built during the **Luddy Hackathon 2025**. It transforms both live and recorded audio into structured, searchable, and intelligent transcripts. From transcription and speaker diarization to summarization and sentiment analysis — Vaani makes audio data instantly useful.
@@ -111,6 +110,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Hugging Face](https://huggingface.co/) for state-of-the-art NLP models
 - [Gradio](https://www.gradio.app/) for rapid UI development
 
-=======
-# Vaani---An-AI-powered-meeting-assistant
->>>>>>> 5db2977004382a8974588327b80be061c04b8db7
